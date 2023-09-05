@@ -1,0 +1,25 @@
+todo sat:
+
+make play screen
+
+todo mon:
+
+make puzzle screen
+
+todo tues:
+
+make lessons
+
+todo wed:
+
+chess news
+
+todo thus:
+
+footer
+
+todo fri:
+vertical menu
+
+todo sat:
+project optimization
